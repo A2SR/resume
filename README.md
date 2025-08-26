@@ -16,7 +16,7 @@ Deployment is automated by [GitHub Actions](https://github.com/simbleau/resume/a
   | ---------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------- |
   | Résumé                 | <https://simbleau.github.io/resume/resume.html>                               | <https://simbleau.github.io/resume/>           |
   | Résumé, Embedded       | <https://simbleau.github.io/resume/resume-embed.html>                         | <https://simbleau.github.io/resume/embed.html> |
-  | Résumé, Download       | <https://github.com/simbleau/resume/releases/download/latest/resume.pdf>      |                                                |
+  | Résumé, Download       | <https://github.com/a2sr/resume/releases/download/latest/resume.pdf>      |                                                |
   | Cover letter           | <https://simbleau.github.io/resume/coverletter.html>                          |                                                |
   | Cover letter, Embedded | <https://simbleau.github.io/resume/coverletter-embed.html>                    |                                                |
   | Cover letter, Download | <https://github.com/simbleau/resume/releases/download/latest/coverletter.pdf> |                                                |
